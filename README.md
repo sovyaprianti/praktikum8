@@ -91,10 +91,10 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 4. Ubah data: Mengubah nilai mahasiswa berdasarkan nama
 5. Keluar: Keluar dari program
 
-Diagram Class  :
+# Diagram Class  :
 ![Screenshot from 2024-12-08 20-29-58](https://github.com/user-attachments/assets/4c7941a9-c9fe-4e73-845e-2691713fee44)
 
-flowchart :
+# flowchart :
 ![flowchart_mahasiswa](https://github.com/user-attachments/assets/14d540c9-78d4-4183-bbe2-4b30ef7937f0)
 
 
