@@ -4,8 +4,11 @@
 ## Kelas : TI.24.A4
 ## Mata Kuliah : Bahasa Pemrograman
 
+Tugas Praktikum
 ![Screenshot 2024-12-08 075910](https://github.com/user-attachments/assets/de3ce05a-6d1e-4fad-be05-f0f6f15427e7)
 
+# Lab8.py
+```
 class Mahasiswa:
     def __init__(self, nama, nilai):
         self.nama = nama
@@ -71,6 +74,7 @@ while True:
         break
     else:
         print("Pilihan tidak valid.")
+```
 
     # Code Penjelasan
 1. `DaftarNilaiMahasiswa` adalah kelas yang mengelola daftar mahasiswa. Kelas ini memiliki metode untuk menambah, mengubah, menghapus, dan menampilkan daftar nilai mahasiswa.
@@ -87,4 +91,11 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 4. Ubah data: Mengubah nilai mahasiswa berdasarkan nama
 5. Keluar: Keluar dari program
 
-Diagram Class Tersebut :
+Diagram Class  :
+![Screenshot from 2024-12-08 20-29-58](https://github.com/user-attachments/assets/4c7941a9-c9fe-4e73-845e-2691713fee44)
+
+flowchart :
+![flowchart_mahasiswa](https://github.com/user-attachments/assets/14d540c9-78d4-4183-bbe2-4b30ef7937f0)
+
+
+
