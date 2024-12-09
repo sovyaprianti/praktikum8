@@ -76,7 +76,7 @@ while True:
         print("Pilihan tidak valid.")
 ```
 
-    # Code Penjelasan
+# Code Penjelasan
 1. `DaftarNilaiMahasiswa` adalah kelas yang mengelola daftar mahasiswa. Kelas ini memiliki metode untuk menambah, mengubah, menghapus, dan menampilkan daftar nilai mahasiswa.
 2.  Method `tambah(self, nama, nilai)` Menambahkan data mahasiswa baru ke dalam daftar.
 3.  Method `tampilkan(self)` Menampilkan semua data mahasiswa yang tersimpan dalam daftar.
