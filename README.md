@@ -4,7 +4,7 @@
 ## Kelas : TI.24.A4
 ## Mata Kuliah : Bahasa Pemrograman
 
-Tugas Praktikum
+# Tugas Praktikum
 ![Screenshot 2024-12-08 075910](https://github.com/user-attachments/assets/de3ce05a-6d1e-4fad-be05-f0f6f15427e7)
 
 # Lab8.py
